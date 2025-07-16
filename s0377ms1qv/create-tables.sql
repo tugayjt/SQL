@@ -22,3 +22,5 @@
     condition INTEGER,
     sold BOOLEAN
   );
+
+  -- for example
